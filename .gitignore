@@ -1,1 +1,4 @@
 venv/
+*.txt
+*.session
+*.session-journal
